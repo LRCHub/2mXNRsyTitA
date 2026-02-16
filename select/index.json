@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Faint",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-16T13:03:31.366261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Faint",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Faint_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Meet Your Master - the faint",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/02_Meet_Your_Master_-_the_faint_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Meet Your Master (The Faint)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/03_Meet_Your_Master_(The_Faint)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Faint Horizon",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/04_The_Faint_Horizon_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Faint",
+      "artist": "Duster",
+      "has_synced": false,
+      "path": "select/05_Faint_Duster.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prologue: A Faint Applause...",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/06_Prologue__A_Faint_Applause..._Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Prologue… A Faint Applause",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/07_Prologue..._A_Faint_Applause_Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jigga What / Faint",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/08_Jigga_What___Faint_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Faint",
+      "artist": "Jigga What",
+      "has_synced": true,
+      "path": "select/09_Faint_Jigga_What.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Faint",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Faint_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Faint (Demo 2002)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Faint_(Demo_2002)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jigga What / Faint (Live)",
+      "artist": "Linkin Park feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/12_Jigga_What___Faint_(Live)_Linkin_Park_feat._Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jigga What\u0000Faint [Live]",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/13_Jigga_What\u0000Faint_[Live]_Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jigga What / Faint - Live At Milton Keynes",
+      "artist": "Jay-Z/ Linkin Park",
+      "has_synced": false,
+      "path": "select/14_Jigga_What___Faint_-_Live_At_Milton_Keynes_Jay-Z__Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Y Control (Faint Remix)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/15_Y_Control_(Faint_Remix)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Y-Control (Faint Remix)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/16_Y-Control_(Faint_Remix)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Faint Resemblance",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/17_Faint_Resemblance_Rise_Against.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Faint",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/pl_01_Faint_LINKIN_PARK.txt"
+    }
+  ]
+}
